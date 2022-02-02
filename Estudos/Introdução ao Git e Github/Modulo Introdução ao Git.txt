@@ -1,0 +1,49 @@
+**Comandos**
+
+**Para Windows**
+
+- cd - navegar na pagina ( cd .. - volta  a pagina)
+- dir - listar diretorios
+- mkdir - cria pagina
+- del/rmdir - deleta
+- cls - Limpa o terminal
+- echo  - ele vai jogar a string novamente no terminal
+
+**Para Unix (LInux)**
+
+- cd - navegar na pagina
+
+- ls - lista de diretorios
+
+- mkdir- cria pagina
+
+- rm -rf
+
+- ctel+l - limpar
+
+  
+
+**SHA1 -** significa Secure Hash Algoriyhm ( Algoritimo de Hash Seguro)  openss1 sha1
+
+**Objetos do Git**
+
+- BLOBS
+
+- TREES
+
+- COMMITS
+
+  
+
+**Outros comandos**
+
+- git init 
+- git add 
+- git commit 
+- git add * - adiciona com todas as alterações
+- git config --list
+- git remote add origin -
+- git push master
+- ls -a - ve o .git escondido
+- git remote -v - ve aonde esta apontado o repositorio
+- git clone - puxar outros repositorios para minha maquina
